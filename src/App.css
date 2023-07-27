@@ -1,0 +1,74 @@
+ /* .App {
+  text-align: center;
+}  */
+
+body{
+  background-image: radial-gradient(pink, blue);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+#name{
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgb(223, 129, 232);
+  width: 300px;
+  height: 25px;
+  font-size: 20px;
+}
+#Rating{
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgb(223, 129, 232);
+  width: 300px;
+  height: 25px;
+  font-size: 20px;
+}
+#dept{
+  border-radius: 10px;
+  text-align: center;
+  background-color: rgb(223, 129, 232);
+  width: 300px;
+  height: 25px;
+  font-size: 20px;
+
+}
+#content{
+  text-align: center;
+  line-height: 50px;
+ background-color: rgb(243, 105, 105);
+ width: 600px;
+}
+h1{
+  text-align: center;
+  width: 100%;
+  padding: -20PX 10px
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} 
+.Show-data{
+  background-image: radial-gradient(rgb(239, 111, 111), rgba(14, 17, 49, 0.237));
+ display: flex;
+  flex-wrap: wrap; 
+  height: auto;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-evenly; 
+}
+.span{
+  background-color: rgba(80, 249, 181, 0.356);
+  font-size: 30px;
+  line-height: 30px;
+  width: 40%;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 10px;
+  border-radius: 12px;
+}
+
+
